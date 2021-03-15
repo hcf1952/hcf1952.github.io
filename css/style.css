@@ -6,7 +6,6 @@ h1,h2,h3,h4,h5,h6{
 	height:70vh;
 }
 #intro .p-5{
-	size;
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
@@ -21,26 +20,24 @@ nav li{
 	color: #ffffff;
 }
 #Introduction .p-5{
-	size: relative;
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
 }
 #Introduction img{
-	height:40vmin;
-	width:30vmin;
+	height:40vh;
+	width:auto;
 }
 
 #Album .p-5{
-	size: relative;
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
 }
 #Album img{
-	width:40vmin;
-	height:100vmin;
+	width:50%;
+	height:auto;
 }
 #Album .bg-light{
-	height:120vmin;
+	height:120vh;
 }
