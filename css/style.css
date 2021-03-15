@@ -1,0 +1,12 @@
+h1,h2,h3,h4,h5,h6{
+	font-family: 'DotGothic16', sans-serif;
+}
+
+#intro .bg-light{
+	height:70vh;
+}
+#intro .p-5{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
