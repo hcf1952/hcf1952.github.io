@@ -21,11 +21,11 @@ nav li{
 }
 #Introduction .p-5{
 	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
+	top: 60%;
+	transform: translateY(-40%);
 }
 #Introduction img{
-	height:40%;
+	height:50%;
 	width:auto;
 }
 
